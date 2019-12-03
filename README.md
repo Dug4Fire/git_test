@@ -1,0 +1,1 @@
+This is dug4fire's first git project!
